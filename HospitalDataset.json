@@ -1,0 +1,87 @@
+[
+    {
+      "NameofHospital":"Medical College Hospital",
+      "PatientCount":3250,
+      "HospitalLocation":"Trivandrum"
+    },
+    {
+      "NameofHospital":"Medical College Hospital",
+      "PatientCount":3075,
+      "HospitalLocation":"Kozhikode"
+    },
+    {
+      "NameofHospital":"Medical College Hospital",
+      "PatientCount":2000,
+      "HospitalLocation":"Kottayam"
+    },
+    {
+      "NameofHospital":"Medical College Hospital",
+      "PatientCount":750,
+      "HospitalLocation":"Alappuzha"
+    },
+    {
+      "NameofHospital":"Medical College Hospital",
+      "PatientCount":1250,
+      "HospitalLocation":"Thrissur"
+    },
+    {
+      "NameofHospital":"The Gandhi Memorial & Associated Hospitals",
+      "PatientCount":4500,
+      "HospitalLocation":"Lucknow"
+    },
+    {
+      "NameofHospital":"Madras Medical College & Government General Hospital",
+      "PatientCount":3474,
+      "HospitalLocation":"Chennai"
+    },
+    {
+      "NameofHospital":"Maulana Azad Medical College",
+      "PatientCount":2800,
+      "HospitalLocation":"New Delhi"
+    },
+    {
+      "NameofHospital":"Ahmedabad Civil Hospital",
+      "PatientCount":2800,
+      "HospitalLocation":"Ahammedabad"
+    },
+    {
+      "NameofHospital":"All India Institute Of Medical Sciences",
+      "PatientCount":2500,
+      "HospitalLocation":"New Delhi"
+    },
+    {
+      "NameofHospital":"The Christian Medical College, Vellore",
+      "PatientCount":2210,
+      "HospitalLocation":"TamilNadu"
+    },
+    {
+      "NameofHospital":"Guahati Medical College and Hospital",
+      "PatientCount":2185,
+      "HospitalLocation":"Assam"
+    },
+    {
+      "NameofHospital":"Calcutta Medical College",
+      "PatientCount":2143,
+      "HospitalLocation":"Calcutta"
+    },
+    {
+      "NameofHospital":"Government Medical College",
+      "PatientCount":750,
+      "HospitalLocation":"Palakkad"
+    },
+    {
+      "NameofHospital":"Government Medical College",
+      "PatientCount":950,
+      "HospitalLocation":"Kollam"
+    },
+    {
+      "NameofHospital":"Government Medical College",
+      "PatientCount":1200,
+      "HospitalLocation":"Malappuram"
+    },
+    {
+      "NameofHospital":"Government Medical College Kannur",
+      "PatientCount":2500,
+      "HospitalLocation":"Kannur"
+    }
+  ]
